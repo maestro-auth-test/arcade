@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Dependencies>
-  <Source Uri="https://github.com/dotnet/dotnet" Mapping="arcade" Sha="20fdc50b34ee89e7c54eef0a193c30ed4816597a" BarId="271343" />
+  <Source Uri="https://github.com/maestro-auth-test/dotnet" Mapping="arcade" Sha="cc47f10a3cd5498b8d9a146640ba5bc34ac16bb4" BarId="253" />
   <ProductDependencies>
   </ProductDependencies>
   <ToolsetDependencies>
